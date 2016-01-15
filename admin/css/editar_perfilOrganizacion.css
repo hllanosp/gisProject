@@ -1,0 +1,30 @@
+.nav-tabs.nav-justified > .active > a, .nav-tabs.nav-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:focus {
+    border: 0;
+        border-radius: 0px;
+    background-color: #ebebeb;
+    color: #3071a9;
+  }
+  .nav-dark {
+     background: #3071a9;
+  }
+  .tab-content {
+      background-color: #ebebeb;
+  }
+  .form-control{
+      background-color: #cfd5e9;
+  }
+  #codigoAsignadoSistema{
+       margin-left: 45px;
+   }
+   #codigoDerecho{
+      color:black;
+   }
+   .input-group-addon {
+    
+    background-color: #cfd5e9;
+  }
+  .input-group[class*=col-] {
+     float: left; 
+    padding-right: 30px;
+    padding-left: 0;
+  }

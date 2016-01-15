@@ -1,0 +1,121 @@
+.mainpanel{
+	margin-left:0;
+	min-width: 100%;
+	width: 100%;
+	min-height: 100%;
+}
+
+.headerbar{
+	border-bottom: 1px solid #EEE;
+}
+
+#logopanel{
+	border-right: 0px solid #EEE;
+
+}
+
+.img{
+	margin-left:auto;
+	margin-right:auto; 
+	display:block;
+}
+
+#contentpanel{
+	padding:0px; 
+	background-color: #FFF;
+	height: 100%;
+}
+
+#userPerfil{
+	text-align: center;
+	background-color: #C7D5EA;
+	padding-bottom: 2%;
+	height: 100%;
+	padding-bottom: 6.7%;
+}
+
+#imagenPerfil{
+	margin-left: auto; 
+	margin-right: auto; 
+	display:block;  border-radius: 50%;
+}
+
+.subtitle{
+	margin-bottom: 0%;	
+}
+
+#editarPerfil{
+	margin-bottom: 2%;
+}
+
+#footer{
+	margin-right: 0%;
+	margin-left: 0%;
+	background-color: #575756; 
+}
+
+#h6footer{
+	margin-top:0%; 
+	margin-bottom:0%;
+}
+
+#h6footer2{
+	margin-top:0%; 
+}
+
+#redes{
+	text-align: center;
+	margin-left: 0%; 
+	color: #FFF
+}
+
+.btnLogin{
+	height: 48px;
+}
+.center-div{
+	margin-top: 5%;
+	height: auto;
+	width: auto;
+}
+
+.left-div{
+	margin-top: 30%;
+	margin-left: 30%
+}
+.right-div{
+	position: absolute;
+}
+#img2{
+	margin-left: 30%;
+}
+
+#secction{
+	width: 100%;
+}
+
+#gestionF{
+	text-align: right;
+}
+#gestionP{
+	text-align: center;
+
+}
+
+.links{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-right: 8%;
+	color: #31AE7B;
+}
+
+.links2{
+	color: #2BA3DD;
+}
+
+body{
+	min-width: 100%;
+	min-height: 100%;
+	height: auto;
+	width: auto;
+}

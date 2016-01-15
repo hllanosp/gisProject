@@ -1,0 +1,27 @@
+.leftpanelinner{
+	background-color: #1C2838;
+}
+
+#sideProyectos{
+	color: #2BA3DD;
+}
+
+#sideFinanzas{
+	color: #31AE7B;
+}
+
+.proyectos:hover{
+	color: #2BA3DD;
+}
+.img{
+	margin-left:auto;
+	margin-right:auto; 
+	display:block;
+}
+
+#proyectos:hover{
+	color: #2BA3DD;
+}
+#finanzas:hover{
+	color: #31AE7B;;
+}

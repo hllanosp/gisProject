@@ -1,0 +1,79 @@
+
+#logo01{
+	margin-left: 15px; 
+	margin-right: 15px;
+}
+
+#textoPromosional{
+	font-size: 100%; 
+	margin-right: 15px; 
+	margin-left:15px; 
+	color:#FFF;
+}
+
+#tituloPanelLogin{
+	font-size: 200%; 
+	color:#232350; 
+	text-align:center; 
+	font-family:Corbel,italic;
+}
+
+#h5Login{
+	font-size: 100%; 
+	color:#232350;
+	text-align:center; 
+	font-family:Corbel,italic;
+}
+
+.img{
+	margin-left:auto; 
+	margin-right:auto; 
+	display:block;
+}
+
+#loader{
+	margin-left:auto; 
+	margin-right:auto; 
+	display:block;
+}
+
+#pLogin{
+	font-size: 100%;  
+	text-align:center; 
+	color:#232350
+}
+
+.textoCorporativo{
+	color:#232350;
+}
+
+#iniciar_sesion{
+	background-color: #232350;
+	border-color: #232350;	
+}
+
+#footer{
+	background-color: #575756; 
+	margin-top: 2%;
+}
+
+#redes{
+	margin-left: 0%; 
+	color: #FFF
+}
+
+.btnLogin{
+	height: 48px;
+}
+#h6footer{
+	margin-top:0%; 
+	margin-bottom:0%;
+}
+
+#h6footer2{
+	margin-top:0%; 
+}
+
+#mensajeError{
+	text-align: center;
+}

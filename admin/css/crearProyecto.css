@@ -1,0 +1,184 @@
+.form-control{
+	background-color: #D0D9E7;
+}
+
+#perfilProyecto{
+	background-color: #518AC7;
+	text-align: center;
+	color: white;
+}
+
+#planOperativo{
+	background-color: #282751;
+	text-align: center;
+	color: white;
+}
+
+
+#panelheadding{
+	color: white;
+}
+
+
+#disabledTabWizard{
+	margin-top: 0;
+}
+
+#tabsRow{
+	margin-left: 0;
+	margin-right: 0;
+	
+}
+
+.panel-default{
+	margin-bottom: 0;
+}
+
+#ultabs{
+	background-color: #C4CBD9;
+}
+
+
+#tabContente{
+	background-color: #EBEBEB;
+
+}
+
+.form-control{
+	background-color: #D2DAE8;
+}
+
+#pager{
+	background-color: #EBEBEB;
+}
+#mainpanel{
+	background-color: #D9D9D9;
+}
+
+#componenteDescripcion{
+	background-color: white;
+
+}
+
+#productoDescripcion{
+	background-color: white;
+}
+
+#actividadDescripcion{
+	background-color: white;	
+}
+
+.nav1 {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.nav1 > li {
+  position: relative;
+  display: block;
+}
+.nav1 > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+.nav1 > li > a:hover,
+.nav1 > li > a:focus {
+  text-decoration: none;
+  background-color: #eee;
+}
+.nav1 > li.disabled > a {
+  color: #777;
+}
+.nav1 > li.disabled > a:hover,
+.nav1 > li.disabled > a:focus {
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+.nav1 .open > a,
+.nav1 .open > a:hover,
+.nav1 .open > a:focus {
+  background-color: #eee;
+  border-color: #428bca;
+}
+.nav1 .nav-divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+.nav1 > li > a > img {
+  max-width: none;
+}
+.nav-tabs {
+  border-bottom: 1px solid #ddd;
+}
+.nav-tabs > li {
+  float: left;
+  margin-bottom: -1px;
+}
+.nav-tabs > li > a {
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0 0;
+}
+.nav-tabs > li > a:hover {
+  border-color: #eee #eee #ddd;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  color: #555;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-color: transparent;
+}
+.nav-tabs.nav-justified {
+  width: 100%;
+  border-bottom: 0;
+}
+.nav-tabs.nav-justified > li {
+  float: none;
+}
+.nav-tabs.nav-justified > li > a {
+  margin-bottom: 5px;
+  text-align: center;
+}
+.nav-tabs.nav-justified > .dropdown .dropdown-menu {
+  top: auto;
+  left: auto;
+}
+@media (min-width: 768px) {
+  .nav-tabs.nav-justified > li {
+    display: table-cell;
+    width: 1%;
+  }
+  .nav-tabs.nav-justified > li > a {
+    margin-bottom: 0;
+  }
+}
+.nav-tabs.nav-justified > li > a {
+  margin-right: 0;
+  border-radius: 4px;
+}
+.nav-tabs.nav-justified > .active > a,
+.nav-tabs.nav-justified > .active > a:hover,
+.nav-tabs.nav-justified > .active > a:focus {
+  border: 1px solid #ddd;
+}
+@media (min-width: 768px) {
+  .nav-tabs.nav-justified > li > a {
+    border-bottom: 1px solid #ddd;
+    border-radius: 4px 4px 0 0;
+  }
+  .nav-tabs.nav-justified > .active > a,
+  .nav-tabs.nav-justified > .active > a:hover,
+  .nav-tabs.nav-justified > .active > a:focus {
+    border-bottom-color: #fff;
+  }
+}
+

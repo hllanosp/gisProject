@@ -1,0 +1,53 @@
+#proyectosPanel{
+	background-color: #518AC7;
+	text-align: center;
+	color: white;
+}
+
+#perfilProyecto{
+	background-color: #518AC7;
+	text-align: center;
+	color: white;
+}
+
+#planOperativo{
+	background-color: #282751;
+	text-align: center;
+	color: white;
+}
+#panelheadding{
+	color: white;
+}
+
+#ultabs{
+	background-color: #C5D6D9;
+	color: black;
+}
+
+#panelBodyPerfil{
+	padding: 0px;
+	padding-bottom: 20px;
+}
+
+#panelBodyPlan{
+	padding: 0px;
+	padding-bottom: 20px;
+}
+.aText{
+	color: black;
+}
+
+#verMasPerfil{
+	float: right;
+	color: #518AC7;
+}
+
+#verMasPlan{
+	float: right;
+	color: #282751;
+}
+
+#verTodo{
+	float: right;
+	margin-top: 20px;
+}

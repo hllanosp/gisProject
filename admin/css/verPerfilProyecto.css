@@ -1,0 +1,97 @@
+#proyectosPanel{
+	background-color: #518AC7;
+	text-align: center;
+	color: white;
+}
+
+#proyectosPanel{
+	background-color: #518AC7;
+	text-align: center;
+	color: white;
+}
+
+#planOperativoPanel{
+	background-color: #282751;
+	text-align: center;
+	color: white;
+}
+
+#headerProyecto{
+	color: white;
+}
+
+#panelPerfilProyecto{
+	margin-bottom: 3px;
+	background-color: #ECECEC;
+}
+
+#subPerfilProyecto{
+	background-color: #ECECEC;
+}
+
+#codigoDerecho{
+	float: right;
+}
+
+#codigoIzquierdo{
+	float: left;
+}
+
+#nombreProyecto{
+	margin-bottom: 0px;
+}
+
+#Localizacion{
+	margin-top: 0px;
+	font-style: oblique;
+}
+
+.componente{
+	background-color: #D1DAE8;
+}
+
+#labelduracion{
+	margin-top: 20px;
+}
+#labelObjetivo{
+	margin-top: 20px;
+}
+
+.interno{
+	padding-top: 8px;
+	padding-bottom: 15px;
+}
+
+.interno1{
+	padding-top: 8px;
+}
+.interno2{
+	padding-bottom: 15px;
+}
+
+#regresar{
+	float: left;
+}
+
+#regresarPlan{
+	float: left;
+	background-color: #282751;
+	border-color: #282751;
+}
+
+#regreso{
+	margin-top: 35px;
+}
+
+#opcionesExtras{
+	float: right;
+}
+
+.contentPanel{
+	min-height: 1200px;
+}
+
+#bodyFases{
+	padding: 0px;
+}
+
